@@ -127,7 +127,7 @@ Notably, the unemployment rate by income level remained negligible across the en
 
 ## Conclusion  
 
-Physical activity significantly reduced diabetes risk, while diet score showed negligible correlation on glucose levels. LDL cholesterol and BMI emerged as strong clinical risk factors, and socioeconomic influences such as education also positively correlated with diabetes prevalence. The exploratory data analysis revealed the importance of combining lifestyle, demographic, and clinical data to understand complex health risks.  
+Physical activity significantly reduced diabetes risk, while diet score showed negligible correlation on glucose levels. LDL cholesterol and BMI emerged as strong clinical risk factors, and socioeconomic influences such as education also positively correlated with diabetes prevalence. However, it’s vital to understand that analysis and correlation is based solely on the sampled bias within the provided dataset. The exploratory data analysis revealed the importance of combining lifestyle, demographic, and clinical data to understand complex health risks.  
 
 * LDL Cholesterol, and higher BMI are clear risk factors for diabetes in this dataset.  
 * Lifestyle factors such as physical activity showed a stronger correlation than diet score in reducing risk.  
